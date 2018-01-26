@@ -1,0 +1,52 @@
+body {
+    background-color: lawngreen;
+    background-repeat: repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 15px;
+}
+
+div {
+    border: solid 1px white;
+    border-collapse: none;
+    border: none;
+}
+
+.logo {
+    margin-top: 15px;
+}
+
+.row .col-md-12 {
+    padding: 0px;
+}
+
+.padding {
+    padding: 10px;
+}
+
+.images {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.image {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-family: Helvetica Neue, Helvetica, Arial;
+    font-size: 1.0em;
+    font-weight: bold;
+    color: white;
+}
+
+.footer {
+    height: 200px;
+}
+
+.copyright {
+    padding-top: 100px;
+    text-align: center;
+    font-family: Helvetica Neue, Helvetica, Arial;
+    font-size: 1.0em;
+    font-weight: bold;
+    color: #5e35b1;
+}
